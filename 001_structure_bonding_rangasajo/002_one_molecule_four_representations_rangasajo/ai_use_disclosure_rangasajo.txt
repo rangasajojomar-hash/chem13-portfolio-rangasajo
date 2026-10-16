@@ -1,0 +1,28 @@
+AI USE DISCLOSURE DOCUMENT
+Project Title: Molecule Representation Portfolio (10 Chemical Cards)
+File Name: ai_use_disclosure_rangasajo.txt
+Author: Rangasajo
+Date: October 2026
+
+1. OVERVIEW OF AI UTILIZATION
+In the development of this 10-molecule chemical card portfolio, an AI collaborator (Gemini by Google) was used as a quality-assurance, verification, and proofreading assistant. All visual elements, card designs in Canva, Ketcher/MolView structural drawings and file exports were created, executed, and submitted by the author.
+
+2. SPECIFIC AREAS OF AI ASSISTANCE
+
+A. Systematic Panel-by-Panel Verification:
+   - Used AI to perform independent, step-by-step chemical audits across all 10 cards (Propane through Caffeine).
+   - Verified that all four panels on every card (Molecular Formula, Lewis Structure, Condensed Formula, and Bond-Line Formula) maintained consistent connectivity, atom counts, and valence rules.
+
+B. Lewis Structure & Valence Auditing:
+   - Utilized AI to audit octet fulfillment and identify missing non-bonding electron pairs (lone pairs) on heteroatoms (Oxygen and Nitrogen).
+   - Confirmed the addition of required lone pair dots in Canva (2 pairs / 4 dots for neutral Oxygen; 1 pair / 2 dots for neutral Nitrogen).
+
+C. Formula & Nomenclature Corrections:
+   - Verified IUPAC names, common names, and molecular formulas in card headers.
+   - Identified and corrected errors in condensed structural formulas (e.g., updating Acetaminophen to CH3CONHC6H4OH and Caffeine to CH3NC(=O)N(CH3)C(=O)C=C1N(CH3)CH=N1).
+
+D. Ketcher / MolView Bond-Line Rendering Guidance:
+   - Used AI guidance to optimize Ketcher export settings (enabling 'Hetero' implicit hydrogen display, hiding terminal methyl carbons, and aligning bond angles).
+
+3. STATEMENT OF ACADEMIC INTEGRITY
+AI was utilized strictly as a consultative tool for verification and error-detection. All final chemical representations, graphic arrangements, file naming conventions, and repository assemblies reflect the original work and direct technical execution of the author.
