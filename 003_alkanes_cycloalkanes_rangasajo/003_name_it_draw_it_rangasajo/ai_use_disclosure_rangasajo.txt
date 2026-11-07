@@ -1,0 +1,35 @@
+AI AND NAMING TOOL DISCLOSURE STATEMENT
+CHEM 13 Organic Chemistry (Lecture) | BS Chemical Engineering
+Bicol University - College of Engineering
+Asynchronous Activity No. 3: Name It, Draw It
+
+Student Name: Jomar L. Rangasajo
+Course/Section: BSChE-2B
+Repository File: ai_use_disclosure_rangasajo.txt
+
+
+1. TOOLS USED & PURPOSE
+
+A. The Alkane (thealkane.com)
+   - Role: Primary IUPAC Naming Verification & Drawing Tool (Required)
+   - Usage: Used to rebuild and check names for Part A structures (A01-A10) 
+     and to draw bond-line structures and obtain back-check names for Part B 
+     names (B01-B10).
+
+B. Gemini (Google AI Assistant)
+   - Role: Academic & Reasoning Support Assistant (Permitted Learning Support)
+   - Usage: 
+     * Clarifying IUPAC naming rules (e.g., 2013 IUPAC ring-parent priority, 
+       locant set tie-breakers, and halogen substituent ordering).
+     * Auditing deck text for structural compliance, formula counts, and typos.
+     * Formatting and verifying card template content prior to final PDF export.
+
+
+2. STATEMENT OF RESPONSIBILITY
+
+In accordance with the guidelines of Section 09 of the activity instructions:
+- Every IUPAC name, naming trail, decoded formula, and structural reasoning 
+  entry was reviewed, verified, and confirmed by the student prior to submission.
+- The Alkane was used strictly as a checking tool, and all discrepancies 
+  between the tool and IUPAC rules or deliberate errors in the 
+  given names  were independently identified, explained, and justified.
